@@ -18,7 +18,7 @@
 
 ## :blush: **Objetivo do Projeto**
 
-Projeto usando NodeJs, com objetivo de criar API para uma aplicação web.
+Projeto usando NodeJs +  express + MongoDb, com objetivo de criar app REST API com CRUD.
 
 ## 🚀 **Status**
 
