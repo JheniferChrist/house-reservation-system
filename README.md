@@ -7,7 +7,7 @@
 
 <p align="center">Projeto House Reservation System</p>
 
-<p align="center"><i>"Aó vence amanhã se não desistir hoje!"</i> </p>
+<p align="center"><i>"Só vence amanhã se não desistir hoje!"</i> </p>
 
 
 <p align="center">
