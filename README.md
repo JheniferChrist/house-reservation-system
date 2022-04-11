@@ -11,8 +11,8 @@
 
 
 <p align="center">
-  <a href="#blush-project-objectives">Project objectives</a> •
-  <a href="#art-about-me">About Me</a>
+  <a href="#blush-objetivo-do-projeto">Project objectives</a> •
+  <a href="#art-sobre-a-desenvolvedora">About Me</a>
 </p>
 
 
